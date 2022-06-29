@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá eu sou o Geison Malta, desenvolvedor web junior!<br/> <img height="150em" src=https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png />
+## Olá eu sou o Geison Malta, desenvolvedor web junior!<br/> 
 <div align="center">
   <a href="https://github.com/geisonmalta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geisonmalta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
